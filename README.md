@@ -7,12 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMYMEME&hide=SCSS&layout=compact)](https://AMYMEME.github.io/)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMYMEME&repo=algorithm-study&theme=vue)](https://github.com/AMYMEME/algorithm-study)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMYMEME&repo=re-cycle-app&theme=vue)](https://github.com/AMYMEME/re-cycle-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=produce1886&repo=pick-me-up-server&theme=buefy)](https://github.com/produce1886/pick-me-up-server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=produce1886&repo=pickmeup-api-document&theme=buefy)](https://github.com/produce1886/pickmeup-api-document)
-
 </div>
 
 <!--
